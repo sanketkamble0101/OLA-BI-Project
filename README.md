@@ -1,4 +1,4 @@
-Ola BI Dashboard # 🚖 
+# 🚖 Ola BI Dashboard 
 
 ## 📌 Overview
 
@@ -60,16 +60,16 @@ The **Ola BI Dashboard** is an interactive Power BI project that analyzes Ola ri
 
 ### Vehicle Type Dashboard
 
-![Vehicle Type](Screenshots/Vehicle-Type.png)
+![Vehicle Type](Screenshots/Vehicle-Type.PNG)
 
 ### Revenue Dashboard
 
-![Revenue](Screenshots/Revenue.png)
+![Revenue](Screenshots/Revenue.PNG)
 
 ### Cancellation Dashboard
 
-![Cancellation](Screenshots/Cancellation.png)
+![Cancellation](Screenshots/Cancellation.PNG)
 
 ### Ratings Dashboard
 
-![Ratings](Screenshots/Ratings.png)
+![Ratings](Screenshots/Ratings.PNG)
