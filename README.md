@@ -1,4 +1,4 @@
-# 🚖 Ola BI Dashboard
+Ola BI Dashboard # 🚖 
 
 ## 📌 Overview
 
@@ -56,7 +56,7 @@ The **Ola BI Dashboard** is an interactive Power BI project that analyzes Ola ri
 
 ### Overall Dashboard
 
-![Overall](Screenshots/Overall.png)
+![Overall](Screenshots/Overall.PNG)
 
 ### Vehicle Type Dashboard
 
